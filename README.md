@@ -1,5 +1,5 @@
 # Marketing-Campaign-Analysis
-Analysis of campaign performance across various audience preferences, channel effectiveness and return on investment (ROI).
+**Analysis of campaign performance across various audience preferences, channel effectiveness and return on investment (ROI).**
 
 This project focuses on a comprehensive performance analysis of digital marketing campaigns for a large dataset encompassing various companies, campaign types, target audiences, and 
 channels. 
