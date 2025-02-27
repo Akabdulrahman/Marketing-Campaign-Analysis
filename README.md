@@ -10,3 +10,6 @@ Using SQL, I explored and cleaned the raw data, identified and addressed any mis
 
 Then, through Power BI, I visualized these insights, creating interactive dashboards that reveal trends across campaign effectiveness, audience engagement, and channel performance
 
+**The link below provides a clear and concise overview of the analysis process i employed, including data preparation, analysis and visualization.**
+
+https://medium.com/@abdulrahmanakintayo7/ride-paratransit-service-analysis-8168fdcf8073
